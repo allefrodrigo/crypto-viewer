@@ -1,24 +1,22 @@
 # crypto-viewer
-
+<img src="https://i.ibb.co/hHb1NHW/bg-3.png>
+          
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação e hot-reloads para desenvolvimento
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilação and mimificação para produção
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Lints
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
