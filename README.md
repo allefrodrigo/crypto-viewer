@@ -1,5 +1,5 @@
 # crypto-viewer
-<img src="https://i.ibb.co/hHb1NHW/bg-3.png>
+<img src="https://i.ibb.co/hHb1NHW/bg-3.png">
           
 ## Project setup
 ```
